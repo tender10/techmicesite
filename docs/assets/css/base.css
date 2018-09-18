@@ -1,0 +1,77 @@
+header{
+    background-color: #7a0f7b;
+}
+.bg_black{
+    background-color: black;
+    color:#ffffff !important;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.bg_black .card{
+    color:black !important;
+}
+
+#course{
+    color: #fff;
+}
+.box{
+    background-color:#000;
+    text-align: center;
+    
+}
+.box-header{ clear: both; height: 69px; margin-bottom: 10px;}
+.box-header .left{
+    float: left;
+    width: 30%;
+    background-color: #7a0f7b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box-header .right{
+    float: right;
+    width: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mid-banner{
+    background-color: #7a0f7b;
+    float: left;
+    width: 100%;
+    padding-left: 2%;
+   
+}
+
+.container{
+color: #fff;
+font-family: Josefin Sans,sans-serif;
+margin-top: 5%;
+}
+
+.container .mid-text{
+    margin-top: 10%;
+}
+
+hr{
+    border-width: 5px;
+    border-color: white;
+    margin-right: 300px;
+}
+
+
+
+.social{
+    margin-top: 30px;
+    font-size: 1.90rem;
+    /* float: left; */
+    color: #de4de0;
+    font-style: italic;
+}
+
+
+.social img{
+    /* float: right; */
+    margin-left: 200px;
+}
